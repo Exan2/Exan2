@@ -1,7 +1,5 @@
 <!-- MAIN ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=900&color=0A66C2&center=true&vCenter=true&width=850&lines=Hi+I'm+Ex+An+👋;Full-Stack+Developer+%7C+UI%2FUX+Designer;Cross-Platform+Builder+(Web%2C+Mobile%2C+Desktop);Learning+Machine+Learning+%26+Deep+Learning;Creating+Modern+%26+Intelligent+Digital+Experiences" />
-</p>
+
 
 <!-- TOP WAVE -->
 <p align="center">
