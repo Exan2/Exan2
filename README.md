@@ -205,8 +205,8 @@ I combine **clean engineering**, **modern UI/UX**, and **AI experimentation** to
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/></a>
+  <a href="https://www.linkedin.com/in/hadjali-islam-448303243/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
+  <a href="https://www.instagram.com/exan_14/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/></a>
 </p>
 
 ---
