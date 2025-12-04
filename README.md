@@ -1,5 +1,11 @@
-<!-- MAIN ANIMATION -->
+<!-- BEHANCE LINK -->
+<p align="center">
+  <a href="https://www.behance.net/exann" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="40"/>
+  </a>
+</p>
 
+<!-- MAIN ANIMATION -->
 
 <!-- TOP WAVE -->
 <p align="center">
